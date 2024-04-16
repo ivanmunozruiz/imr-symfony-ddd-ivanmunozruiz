@@ -1,5 +1,5 @@
 # imr-symfony-ddd-ivanmunozruiz
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ivan and I'm a Senior backend engineer, from Spain!!</h2>
 
 ###
 
@@ -41,7 +41,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ivanmunozruiz/ivanmunozruiz/output/snake.svg" alt="Snake animation" />
 
 ###
